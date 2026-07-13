@@ -11,6 +11,7 @@ export default defineUserConfig({
       },
     },
   }),
+  base: '/fe-spec-gh-pages/',  
   theme: defaultTheme({
     navbar: [
       {

@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hisb/fe-spec.git"
+    "url": "git+https://github.com/hisb/fe-spec-gh-pages.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -26,5 +26,5 @@
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^10.2.1"
   },
-  "gitHead": "8e098deb9641745ef61beddbdfa8f87b491e9a84"
+  "gitHead": "ac970d875bfc39fbaf807e50bdecc6b228448003"
 }
